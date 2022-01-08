@@ -9,7 +9,7 @@
 
   <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 Sou um desenvolvedor apaixonado pelas inovações que podem ser feitas através do uso de tecnologia, busco transformar sonhos em realidade sempre da forma mais criativa e 
-intuitiva. Além disso essa paixão faz com que eu me mantenha em constante evolução, já que esse universo está sempre mudando e evoluindo.
+intuitiva. Além disso essa paixão faz com que eu me mantenha em constante evolução, visto que esse universo está sempre mudando e evoluindo.
 
 
 
@@ -38,6 +38,6 @@ intuitiva. Além disso essa paixão faz com que eu me mantenha em constante evol
   <a href = "mailto:contatopedroalexsander@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://instagram.com/pedro_alexsander" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+    
     
   </div>
