@@ -8,8 +8,8 @@
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 
   <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-Sou um desenvolvedor apaixonado pelas inovações que podem ser feitas através do uso de tecnologia, busco transformar sonhos em realidade sempre da forma mais criativa e 
-intuitiva. Além disso essa paixão faz com que eu me mantenha em constante evolução, visto que esse universo está sempre mudando e evoluindo.
+Sou um desenvolvedor apaixonado pelas inovações que podem ser feitas através do uso de tecnologia, busco transformar projetos em realidade sempre da forma mais criativa e 
+inovadora. Além disso essa paixão faz com que eu me mantenha em constante evolução, visto que esse universo está sempre mudando e evoluindo.
 
 
 
